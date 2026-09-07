@@ -28,5 +28,5 @@ near-term catalyst for the forecast.
 
 - [`MUFC_Valuation_Report.pdf`](./MUFC_Valuation_Report.pdf) — full write-up: 
   thesis, methodology, sensitivity analysis, catalysts & risks
-- [`MUFC_Valuation_Model.xlsx`](./MUFC_Valuation_Model.xlsx) — full working 
+- [`mufc_valuation_model.xlsx`](./mufc_valuation_model.xlsx) — full working 
   model (historical financials, drivers, DCF, WACC, valuation, summary)
